@@ -39,7 +39,7 @@ Name                                            | Description
 :----------------------------------------------:|---------------------------------------------------
 [ASM](https://github.com/veganaiZe/ASM)         | Assembler resources & examples.
 [BASIC](https://github.com/veganaiZe/BASIC)     | BASIC resources & examples.
-[C](https://github.com/veganaiZe/C)             | C programming resources & examples.
+[C/C++](https://github.com/veganaiZe/C)         | C/C++ programming resources & examples.
 [DSA](https://github.com/veganaize/DSA)         | Data Structures & Algorithms.
 [HASKELL](https://github.com/veganaize/HASKELL) | Haskell programming resources & examples.
 [JAVA](https://github.com/veganaiZe/JAVA)       | Java resources & examples.
