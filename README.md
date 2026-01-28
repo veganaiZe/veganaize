@@ -45,6 +45,7 @@ Name                                            | Description
 [JAVA](https://github.com/veganaiZe/JAVA)       | Java resources & examples.
 [JS](https://github.com/veganaiZe/JS)           | Javascript resources & examples.
 [LUA](https://github.com/veganaize/LUA)         | Lua resources & examples.
+[OS](https://github.com/veganaize/OS)           | Operating System stuff
 [PASCAL](https://github.com/veganaiZe/PASCAL)   | Pascal resources & examples.
 [PY](https://github.com/veganaiZe/PY)           | Python resources & examples.
 [RUBY](https://github.com/veganaize/RUBY)       | Ruby programming resources.
