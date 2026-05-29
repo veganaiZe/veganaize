@@ -16,6 +16,8 @@
 [Icons](https://gist.github.com/veganaiZe/f9b7eb5556048727930a175e56fe571e) - For use in github markdown  
 <img src="https://user-images.githubusercontent.com/7102064/162017713-c282a2cb-b550-4c9b-86d9-fe0e724d1c9c.png" width="16px" />
 [webserver.js](https://gist.github.com/veganaiZe/fc3b9aa393ca688a284c54caf43a3fc3) - Node.js webserver (under 24 lines!)  
+<img src="https://github.com/user-attachments/assets/73f2e8bf-1128-4a43-a8fd-509a3fa522c2" width="16px" />
+[Aseprite 1.3 compilation instructions](https://gist.github.com/veganaiZe/2d2d41ed6f4da0b3a02bac71435e3f03)  
 
 ---
 
