@@ -28,6 +28,7 @@ Name                                          | Language / Platform | Descriptio
 [Bible Reader](https://github.com/minimum-viable-product/BibleReader)      | java     | Bible reading program. (_wip_)
 [HotDIR](https://github.com/veganaiZe/HotDIR) | c / windows | Colorized file & folder listing for command prompt. (_wip_)
 [More](https://github.com/veganaiZe/more)     | c / windows | Command to display a screenful of text at a time. (_wip_)
+[Pause](https://github.com/veganaiZe/Pause)   | c / windows | Command to pause & prompt user to press a key.
 [Proggie Pad](https://github.com/veganaiZe/proggiePad)  | asm / windows? | Programmer's editor. (_wip_)
 [Sprited](https://github.com/veganaiZe/Sprited)        | qbasic         | Sprite editor. (_wip_)
 [Tortilla Timer](https://github.com/veganaiZe/tortilla-timer) | java        | Kitchen timer for cooking foods.
